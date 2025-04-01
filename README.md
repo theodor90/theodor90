@@ -1,7 +1,15 @@
-## Hi there 👋
+# Hey there, I'm Theodor! 👋
 
-# 💫 About Me:
-I'm currently working on:<br>Developing a soccer match predictor application using Node.js for the backend and Python for implementing machine learning models, including an xG (Expected Goals) model. The project analyzes historical match data and statistical factors to provide accurate predictions of match outcomes.<br><br><br>I'm looking to collaborate on:<br>Open-source projects or innovative web applications that require expertise in C#, JavaScript, or Python. I'm particularly interested in projects that involve real-time data processing or machine learning integration.<br><br>I'm looking for help with:<br>Advanced Python concepts, particularly in data science and machine learning. I'm also seeking advice on best practices for scalable application architecture.<br><br>I'm currently learning:<br>Python, focusing on backend development and data analysis. I’m also deepening my understanding of modern JavaScript frameworks like React and Vue.js.<br><br>Ask me about:<br>Full-stack development with C# and JavaScript, building RESTful APIs, or strategies for learning new programming languages effectively.<br><br>Fun fact:<br>I once combined my love for soccer and coding by creating a Python script that scrapes live match data and updates a dashboard with real-time statistics during games.
+I'm a full-stack developer who loves turning ideas into digital masterpieces. When I'm not busy wrangling C#, JavaScript, or even some Python 🐍, you can bet I'm cheering on Inter Milan and living every match like it's the final!
+
+## What I Do
+- **Develop & Innovate:** Crafting dynamic web apps using ASP.NET, React, and other cool technologies.
+- **Full-Stack Fun:** From robust back-end systems with .NET to slick, interactive front-end designs, I'm all about creating seamless digital experiences.
+- **Continuous Learning:** Whether it's mastering new frameworks or exploring cloud services like Azure, I'm always up for a challenge.
+
+## A Little Extra Kick
+- **Football Fanatic:** My love for coding is rivaled only by my passion for football. Inter Milan is my team, and I bring that same energy and strategy to every project.
+- **Life as a Game:** Every project is like a thrilling match—full of challenges, unexpected wins, and the occasional penalty shootout (read: debugging marathon). 
 
 
 # 💻 Tech Stack:
@@ -14,8 +22,6 @@ I'm currently working on:<br>Developing a soccer match predictor application usi
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=theodor90&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=theodor90&icon=0&color=0)](https://visitcount.itsvg.in)
