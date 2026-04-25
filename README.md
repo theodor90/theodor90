@@ -1,4 +1,4 @@
-### Theodor — Malmö, Sweden
+### Theodor - Malmö, Sweden
 
 Building [CyprusSpot](https://cyprusspot.com) - a B2B real estate marketplace for licensed agencies in Cyprus. Background in quantitative research, ML, and software engineering.
 
