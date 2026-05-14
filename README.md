@@ -1,8 +1,11 @@
 ### Theodor - Malmö, Sweden
 
-Building [CyprusSpot](https://cyprusspot.com) - a B2B real estate marketplace for licensed agencies in Cyprus. Background in quantitative research, ML, and software engineering.
+Building two things right now:
 
-Most of what I ship lives in private repos these days. The pinned ones below are older or experimental.
+[Form4API](https://www.form4api.com) — real-time SEC Form 4 insider trading data API. .NET 9, PostgreSQL, webhooks,
+  SaaS billing.
+
+[CyprusSpot.com](https://www.cyprusspot.com) — B2B real estate marketplace for licensed agencies in Cyprus.
 
 ---
 
